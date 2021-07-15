@@ -1,4 +1,4 @@
-streamlit
+streamlit==0.84.0
 Image
 sqlite3
 pandas
