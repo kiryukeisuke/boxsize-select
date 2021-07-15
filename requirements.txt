@@ -1,0 +1,5 @@
+streamlit
+Image
+sqlite3
+pandas
+os
